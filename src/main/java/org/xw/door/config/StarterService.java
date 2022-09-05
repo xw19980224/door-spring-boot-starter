@@ -10,6 +10,7 @@ import org.springframework.util.StringUtils;
  * @Version: 1.0
  */
 public class StarterService {
+
     private String userStr;
 
     public StarterService(String userStr) {
